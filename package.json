@@ -1,0 +1,20 @@
+{
+  "name": "learn-node-js-freecodecamp",
+  "version": "1.0.0",
+  "description": "Node Js Learn From FreeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zvynr/learn-node-js-freecodecamp.git"
+  },
+  "keywords": [],
+  "author": "afz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zvynr/learn-node-js-freecodecamp/issues"
+  },
+  "homepage": "https://github.com/zvynr/learn-node-js-freecodecamp#readme"
+}
